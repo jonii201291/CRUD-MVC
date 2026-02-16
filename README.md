@@ -80,14 +80,7 @@ Base de datos
 
 Tabla utilizada:
 
-CREATE TABLE alumnos (
-    numAlumno INT AUTO_INCREMENT PRIMARY KEY,
-    nombre VARCHAR(50),
-    apellidos VARCHAR(100),
-    fechaNacimiento DATE,
-    repite TINYINT(1)
-);
-
+<img width="1403" height="622" alt="image" src="https://github.com/user-attachments/assets/a8fe7dfb-4942-4834-acf7-15f43f64cd86" />
 
 Ejecución
 
